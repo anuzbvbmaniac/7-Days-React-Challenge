@@ -1,0 +1,207 @@
+{
+  "main": {
+    "name": "Anuj Pandey",
+    "occupation": "Project Leader, Creative Director and Sr. Designer at Stylus Technology",
+    "description": "Sr. Designer and Creative Director by Day, Learner by Night. #anuzbvbmaniac",
+    "image": "IG_Anuz.jpg",
+    "bio": "Hi there, My name is Anuj Pandey. \uD83D\uDE01 I’m a Project Leader, Creative Director and Sr. Designer at Stylus Technology. \uD83C\uDF31 I’m currently learning everything. \uD83E\uDD23\n\uD83E\uDD45 2020 Goals: Contribute more to Open Source projects.\n⚡ Fun fact: I love 3D modelling, gaming and playing guitar.",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "anuzpandey@stylustechnepal.com",
+    "phone": "+977 9860-330-364",
+    "address": {
+      "street": "Maligaun-5",
+      "city": "Kathmandu",
+      "state": "State-3",
+      "zip": "NP 44600"
+    },
+    "website": "http://www.stylustechnepal.com",
+    "resumedownload": "http://www.stylustechnepal.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/anuz.pandey5",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anuz-pandey123",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/anuz.pandey",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/anuzbvbmaniac",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Mount View School",
+        "degree": "SLC",
+        "graduated": "April 2013",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "KIST College",
+        "degree": "+2 Management",
+        "graduated": "September 2015",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Leeds Beckett University",
+        "degree": "BSc (Hons) Computing programme",
+        "graduated": "September 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Silverlining Lining Events",
+        "title": "Senior Designer",
+        "years": "April 2018 - June 2019",
+        "description": "Working as a Senior Designer and 3D Designer."
+      },
+      {
+        "company": "Goldenmud Creation",
+        "title": "Designer & Developer",
+        "years": "June 2017 - April 2018",
+        "description": "Designing graphics medias and developing web apps."
+      },
+      {
+        "company": "Stylus Technology",
+        "title": "Creative Director, Senior Designer and Developer.",
+        "years": "April 2019 - PRESENT",
+        "description": "Web Designer and Developer. Graphics Designer and 3D Modeller."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "20%"
+      },
+      {
+        "name": "Vue",
+        "level": "40%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "85%"
+      },
+      {
+        "name": "Adobe Photoshop & Illustrator",
+        "level": "85%"
+      },
+      {
+        "name": "Blender",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Responsive Product Card",
+        "category": "Responsive Product Card with HTML & CSS",
+        "image": "codepen1.jpg",
+        "url": "https://codepen.io/anuzbvbmaniac/pen/qBBvwjV"
+      },
+      {
+        "title": "Nepal Stamp Collection",
+        "category": "Graphics Design of Nepal Stamp collection.",
+        "image": "stamp.jpg",
+        "url": "https://www.behance.net/gallery/100739959/Nepal-Stamp-01-03"
+      },
+      {
+        "title": "Calendar UI Concept",
+        "category": "Calendar UI Concept - Animation",
+        "image": "animation.gif",
+        "url": "https://dribbble.com/shots/7886084-Calendar-UI-Concept"
+      },
+      {
+        "title": "Yatri Motorcycle",
+        "category": "Yatri Motorcycle - Project Zero Website Redesign Concept 02",
+        "image": "yatri.jpg",
+        "url": "https://dribbble.com/shots/9170233-Yatri-Motorcycle-Project-Zero-Website-Redesign-Concept-02"
+      },
+      {
+        "title": "Cloud 66",
+        "category": "Cloud Station modelling and rendering.",
+        "image": "cloud.jpg",
+        "url": "https://www.artstation.com/artwork/2xPw6e"
+      },
+      {
+        "title": "Rani Pokhari [Nepal]",
+        "category": "RaniPokhari modelling and rendering",
+        "image": "rani.jpg",
+        "url": "https://www.behance.net/gallery/100313407/Rani-Pokhari-Nepal"
+      },
+      {
+        "title": "Avengers Headquarter",
+        "category": "Avengers Headquarter modelling and rendering",
+        "image": "avengers.jpg",
+        "url": "https://www.artstation.com/artwork/qA8rBN"
+      },
+      {
+        "title": "Low Poly Gas Station",
+        "category": "Low Poly Gas Station modelling and rendering",
+        "image": "gas.jpg",
+        "url": "https://www.artstation.com/artwork/Oy29ke"
+      },
+      {
+        "title": "Chemistry Equipment Illustration",
+        "category": "Chemistry Equipment Illustration",
+        "image": "chem.jpg",
+        "url": "https://www.artstation.com/artwork/ea0bn3"
+      },
+      {
+        "title": "The Himalayan Times - Website Redesign",
+        "category": "The Himalayan Times - Website Redesign - Neumorphic Light",
+        "image": "hml.jpg",
+        "url": "https://dribbble.com/shots/11160859-The-Himalayan-Times-Website-Redesign-Neumorphic-Light"
+      },
+      {
+        "title": "The Himalayan Times - Website Redesign [DARK]",
+        "category": "The Himalayan Times - Website Redesign - Neumorphic DARK",
+        "image": "hmd.jpg",
+        "url": "https://dribbble.com/shots/11168948-The-Himalayan-Times-Website-Redesign-Neumorphic-Dark"
+      },
+      {
+        "title": "Toy App",
+        "category": "Toy App Presentation.",
+        "image": "tap.jpg",
+        "url": "https://dribbble.com/shots/11124529-Toy-App"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I struck lucky with Anuj Pandey: his logo design process is intelligent and intuitive. The finished product is a splendid logo with many layers of meanings – all condensed into one image. If you are looking for a logo design, entrust yourself to Anuj.",
+        "user": "Samrita KC"
+      }
+    ]
+  }
+}
